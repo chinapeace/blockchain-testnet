@@ -5,7 +5,9 @@
 以下是运行 Forta 扫描节点的要求（The following are the requirements for running a Forta scan node.）
 
 Liunx 64 位发行版 （ 64-bit Linux distribution）
+
 CPU 4+核 （CPU with 4+ cores）
+
 16GB 内存（16GB RAM）
 能够连接互联网（Connection to Internet）
 Docker v20.10+
