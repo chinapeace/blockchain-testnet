@@ -63,7 +63,7 @@ sudo chmod 755 /usr/local/bin/forta
 ```
 
 - 初始化设置（Initial Setup）
-  - 初始化 Forta 使用`forta init`命令(Initialize Forta using the `forta init` command):
+- 初始化 Forta 使用`forta init`命令(Initialize Forta using the `forta init` command):
 
 ```bash
 forta init --passphrase <your_passphrase>
@@ -84,7 +84,7 @@ Successfully initialized at /yourname/.forta
 - 注册 mainnet api key 通过[alchemy](https://www.alchemy.com/)
 
 - 配置 config.yml（Configure config.yml）
-  - 例如扫描 Polygon 主网（Eg:Scan Polygan mainnet）
+- 例如扫描 Polygon 主网（Eg:Scan Polygan mainnet）
 
 ```bash
 chainId: 137
@@ -104,7 +104,7 @@ trace:
 
 - 1.为你的 Scan node 节点注入资金（fund your scan node address）
   您需要使用一些 Polygon（主网）MATIC 为您的扫描节点地址提供资金，以便能够发送此交易。 你可以使用 metamask 钱包给扫描节点地址转账 1 个 MATIC(You need to fund your scan node address with some Polygon (Mainnet) MATIC to be able to send this transaction.You can use Metamask transfer 1 MATIC to scan node address .)
-  查看扫描节点地址（find out your scan node address command）
+- 查看扫描节点地址（find out your scan node address command）
 
 ```bash
 forta account address
@@ -119,7 +119,7 @@ forta register --owner-address <owner-address> --passphrase <passphrase>
 ```
 
 - 配置系统启动服务(Configure systemd)
-  - 替换<your_passphrase>（Replace you passphrase）
+- 替换<your_passphrase>（Replace you passphrase）
 
 ```bash
 echo "[Unit]
