@@ -81,7 +81,7 @@ Successfully initialized at /yourname/.forta
 - 配置目录位置（config directory location）：`/yourname/.forta`
 - 私钥位置（private key josn-file location）:`/yourname/.forta/.keys`
 
-- 注册 mainnet api key 通过[alchemy](https://www.alchemy.com/)
+- 注册 polygon mainnet api key 通过[alchemy](https://www.alchemy.com/)
   ![image](2.png)
   ![image](6.png)
   ![image](3.png)
