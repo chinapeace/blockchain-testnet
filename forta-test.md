@@ -159,4 +159,6 @@ forta status
 
 ## [可选]扫描节点地址导入 Metamask 钱包([optional] Import Scan node address to Metamask)
 
+![image](1.png)
+
 - 然后填写 forta email 中的表单等待节点加入验证，部署完毕，祝好运！（Then fill the form from latest forta email waiting for nodes to authorized,Good luck!）
