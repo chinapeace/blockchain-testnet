@@ -82,7 +82,10 @@ Successfully initialized at /yourname/.forta
 - 私钥位置（private key josn-file location）:`/yourname/.forta/.keys`
 
 - 注册 mainnet api key 通过[alchemy](https://www.alchemy.com/)
-
+  ![image](2.png)
+  ![image](3.png)
+  ![image](4.png)
+  ![image](5.png)
 - 配置 config.yml（Configure config.yml）
 - 例如扫描 Polygon 主网（Eg:Scan Polygan mainnet）
 
