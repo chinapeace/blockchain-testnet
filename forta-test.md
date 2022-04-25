@@ -100,10 +100,10 @@ trace:
 
 ```
 
-- 替换 http://your-polygon-node 为你注册的 alchemy 的 HTTP address
+- 替换 http://your-polygon-node 为你注册的 alchemy 的 HTTP address(Replace http://your-polygon-node with alchemy http address)
 
 - 1.为你的 Scan node 节点注入资金（fund your scan node address）
-  您需要使用一些 Polygon（主网）MATIC 为您的扫描节点地址提供资金，以便能够发送此交易。 你可以使用 metamask 钱包给扫描节点地址转账 1 个 MATIC(You need to fund your scan node address with some Polygon (Mainnet) MATIC to be able to send this transaction.You can use Metamask transfer 1 MATIC to scan node address .)
+- 您需要使用一些 Polygon（主网）MATIC 为您的扫描节点地址提供资金，以便能够发送此交易。 你可以使用 metamask 钱包给扫描节点地址转账 1 个 MATIC(You need to fund your scan node address with some Polygon (Mainnet) MATIC to be able to send this transaction.You can use Metamask transfer 1 MATIC to scan node address .)
 - 查看扫描节点地址（find out your scan node address command）
 
 ```bash
