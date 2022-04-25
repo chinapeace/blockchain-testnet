@@ -83,6 +83,7 @@ Successfully initialized at /yourname/.forta
 
 - 注册 mainnet api key 通过[alchemy](https://www.alchemy.com/)
   ![image](2.png)
+  ![image](6.png)
   ![image](3.png)
   ![image](4.png)
   ![image](5.png)
