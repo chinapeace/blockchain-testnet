@@ -161,6 +161,10 @@ journalctl -u fortad -f
 forta status
 ```
 
+- 查看节点状态通过 Forta explorer（Check status through Forta explorer）
+  [Forta explorer](https://explorer.forta.network/network)
+  ![image](7.png)
+
 ## [可选]扫描节点地址导入 Metamask 钱包([optional] Import Scan node address to Metamask)
 
 ![image](1.png)
