@@ -2,14 +2,14 @@
 
 ## 扫描节点配置要求（Scan Node Requirements）
 
-- 以下是运行 Forta 扫描节点的要求（The following are the requirements for running a Forta scan node.）
+- 以下是运行 Forta 扫描节点的要求（The following are the requirements for running a Forta scan node）
 
 - Liunx 64 位发行版 （ 64-bit Linux distribution）
 - CPU 4+核 （CPU with 4+ cores）
 - 16GB 内存（16GB RAM）
-  能够连接互联网（Connection to Internet）
-  Docker v20.10+
-  100GB SSD 硬盘 100GB SSD (in addition to full node requirements)
+- 能够连接互联网（Connection to Internet）
+- Docker v20.10+
+- 100GB SSD 硬盘 100GB SSD (in addition to full node requirements)
   **推荐（Recommended）:** 全节点（任何链）（Full node (any chain)）
 
 ## 安装步骤（Installation steps）
@@ -24,7 +24,7 @@ sudo systemctl status docker
 ```
 
 - 配置 Docker（Configure Docker）
-  添加一个名为`daemon.json`到`/etc/docker`目录的文件，其内容如下（Add a file called `daemon.json` to your `/etc/docker` directory with the following contents）：
+- 添加一个名为`daemon.json`到`/etc/docker`目录的文件，其内容如下（Add a file called `daemon.json` to your `/etc/docker` directory with the following contents）：
 
 ```bash
 {    "default-address-pools": [
